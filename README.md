@@ -6,10 +6,16 @@ URL : https://www.freecodecamp.org/certification/fccb0d6b5c3-383f-4d47-b696-3cf5
 
 
 As part of this certification, I built the following projects and got all automated test suites to pass:
+
 1.Arithmetic Formatter;
+
 2.Time Calculator;
-3.Budget App,
-4.Polygon Area Calculator,
+
+3.Budget App;
+
+4.Polygon Area Calculator;
+
 5.Probability Calculator.
+
 
 Each project has its own description.
